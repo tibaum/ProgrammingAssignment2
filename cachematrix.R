@@ -1,5 +1,5 @@
-## The functions makeCacheMatrix and cacheSolve work work together to compute
-## and cache the inverse of a matrix. Function calls for repeated computations
+## The functions makeCacheMatrix and cacheSolve work together to compute and
+## cache the inverse of a matrix. Function calls for repeated computations
 ## return the cached inverse instead of computing it again.
 
 
